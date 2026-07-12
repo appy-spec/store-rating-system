@@ -355,7 +355,7 @@ https://portfolio-psi-one-mzgyj2data.vercel.app/#main
 
 GitHub
 
-https://github.com/<appy-spec>
+https://github.com/appy-spec
 
 ---
 
