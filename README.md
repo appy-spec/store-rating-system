@@ -355,11 +355,7 @@ https://portfolio-psi-one-mzgyj2data.vercel.app/#main
 
 GitHub
 
-https://github.com/<YOUR_GITHUB_USERNAME>
-
-LinkedIn
-
-https://www.linkedin.com/in/<YOUR_LINKEDIN_USERNAME>
+https://github.com/<appy-spec>
 
 ---
 
